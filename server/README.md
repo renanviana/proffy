@@ -2,12 +2,12 @@
 
 ## Conexões
 
-- Rota para listar o total de conexões realizada;
-- Rota para criar uma noca conexão;
+- [x] Rota para listar o total de conexões realizada;
+- [x] Rota para criar uma nova conexão;
 
 
 ## Aulas
 
-- Rota para criar uma aula;
-- Rota para listar aulas;
- - Filtrar por matéria, dia da semana e horário;
+- [x] Rota para criar uma aula;
+- [x] Rota para listar aulas;
+- [x] Filtrar por matéria, dia da semana e horário;
